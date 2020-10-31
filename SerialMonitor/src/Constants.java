@@ -1,3 +1,11 @@
+/**
+ * Author: Christopher Brislin brislinchris@gmail.com
+ * Date: 25 Oct 2020
+ * Title of code: SerialMonitor
+ * Version: 1.0
+ * 
+ */
+
 import java.awt.Dimension;
 
 public class Constants {
@@ -6,7 +14,8 @@ public class Constants {
 			250000, 500000, 1000000 };
 	
 
-	static final int[] DATA_BIT = new int[] {}; //These values can be used in future builds with expanded functionality. 
+	static final int[] DATA_BIT = new int[] {}; // These values can be used in future builds with expanded
+												// functionality.
 	static final int[] STOP_BIT = new int[] {};
 	static final int[] PARITY = new int[] {};
 
