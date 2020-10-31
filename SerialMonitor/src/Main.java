@@ -3,10 +3,10 @@
  */
 
 /**
- * Christopher Brislin
- * 25 Oct 2020
- * SerialMonitor
- * Version 1.0
+ * Author: Christopher Brislin brislinchris@gmail.com
+ * Date: 25 Oct 2020
+ * Title of code: SerialMonitor
+ * Version: 1.0
  * 
  * 
  * ***************************************************
